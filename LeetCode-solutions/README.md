@@ -9,6 +9,7 @@
 |11-container-with-most-water| 516 ms (85.32%) | 29.6 MB (68.2%)
 | 13-roman-to-integer | 99 ms (13.23%) | 13.9 MB (30.33%) |
 | 14-longest-common-prefix | 66 ms (20.01%) | 14.1 MB (11.74%) |
+| 15-3sum |644 ms (73.7%) | 20.7 MB (55.95%) |
 | 20-valid-parentheses | 39 ms (45.55%) | 16.6 MB (58.67%) |
 | 26-remove-duplicates-from-sorted-array | 77 ms (67.99%) | 18.1 MB (65.11%) |
 | ... | ... | ... |
